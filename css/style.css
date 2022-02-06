@@ -1658,3 +1658,14 @@ body.modal {
 		padding-left: 0px;
 	}
 }
+
+.styled-a {
+	text-decoration: none;
+}
+
+.styled-a,
+.styled-a:visited,
+.styled-a:hover,
+.styled-a:active {
+	color: inherit;
+}
